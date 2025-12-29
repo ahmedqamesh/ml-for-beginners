@@ -6,6 +6,8 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+lecture-2/aircraft_damage_dataset_v1
+lecture-2/aircraft_damage_dataset_v1.tar
 bin/
 build/
 develop-eggs/
