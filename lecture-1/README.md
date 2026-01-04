@@ -1,4 +1,4 @@
-# Excercise 3
+# Excercise 1
 ## Lab1: Simple Linear Regression
 
 * Use scikit-learn to implement simple linear regression
@@ -32,12 +32,7 @@ The fuel consumption dataset, **`FuelConsumption.csv`**, contains model-specific
 - **FUEL CONSUMPTION COMBINED MPG (MPG)** e.g. 25
 - **CO2 EMISSIONS (g/km)** e.g. 182 
 
-# Needed Packages:
- - NumPy
- - Matplotlib
- - Pandas
- - Scikit-learn
- 
+# Required Packages:
 ```bash
 !pip install numpy==2.2.0
 !pip install pandas==2.2.3
